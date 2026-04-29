@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{a as o,c as t}from"./auth-BrjQu8L9.js";const e=document.getElementById("logoutButton");e?.addEventListener("click",()=>{o()});const n=()=>{console.log("inicio de pagina"),t("/src/pages/auth/login/login.html","/src/pages/admin/home/home.html","client")};n();
