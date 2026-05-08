@@ -80,7 +80,7 @@ public/
 ## ▶️ Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
-git clone https://github.com/TU-USUARIO/TU-REPO.git
+git clone https://github.com/andresro87/Food-Store.git
 
 2. Instalar dependencias:
 pnpm install
